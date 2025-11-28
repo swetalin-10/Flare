@@ -41,4 +41,3 @@ It is intentionally kept easy to understand, making it ideal for beginners explo
 
 ---
 
-## 🧩 Smart Contract Code
