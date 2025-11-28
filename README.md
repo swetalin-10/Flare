@@ -2,7 +2,11 @@
 
 ## **Contract Address**
 `0xE94261e65ec968fDbB32CE4aC03fe87A4805040b`  
-🔗 Explorer: https://coston2-explorer.flare.network/address/0xE94261e65ec968fDbB32CE4aAC03fe87A4805040b
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4b5af636-4f37-4396-9288-1adbc9ff9e58" />
+
+
+🔗 Explorer: [https://coston2-explorer.flare.network/address/0xE94261e65ec968fDbB32CE4aAC03fe87A4805040b](https://coston2-explorer.flare.network//tx/0xe5b0d6f72d89fcd6ec18574729c1c835e501302757a19584d98715dc6ba8d723)
 
 ---
 
